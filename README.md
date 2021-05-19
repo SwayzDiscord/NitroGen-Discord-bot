@@ -1,0 +1,2 @@
+# NitroGen-Discord-bot
+NITRO GENARTOR DISCORD SOURCE CODE
