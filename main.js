@@ -52,7 +52,7 @@ client.on('ready', async () => {
         let status = statuses[Math.floor(Math.random() * statuses.length)];
         client.user.setActivity(status, {
             type: "STREAMING",
-            url: "https://www.twitch.tv/real_twitcher"
+            url: "https://www.twitch.tv/Orbit_Zer0"
         })
     }, 4000)
 })
